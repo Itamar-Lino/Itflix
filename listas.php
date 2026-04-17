@@ -1,2 +1,4 @@
-lista 01
- https://raw.githubusercontent.com/Itamar-Lino/Itflix/refs/heads/main/filmes.json
+lista 01 https://raw.githubusercontent.com/Itamar-Lino/Itflix/refs/heads/main/filmes.json
+
+lista 02
+https://raw.githubusercontent.com/Itamar-Lino/Itflix/refs/heads/main/series.json
